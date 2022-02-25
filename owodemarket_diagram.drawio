@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T00:01:04.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="xqJwcuj0gCGjfFoWyr2I" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T07:43:06.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="FnrIKvBmYTAduUipGGeT" version="16.6.4" type="github">
   <diagram id="WnpxDVOLBQDGwqwJwSbG" name="Page-1">
-    <mxGraphModel dx="1828" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,8 +55,8 @@
         <mxCell id="1N-22-dwYrfEPRShbCRW-1" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png" vertex="1" parent="1">
           <mxGeometry x="60" y="370" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1N-22-dwYrfEPRShbCRW-2" value="name, phone_number-pk, reg_date, del, status, address" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-8" y="395" width="580" height="30" as="geometry" />
+        <mxCell id="1N-22-dwYrfEPRShbCRW-2" value="name, phone_number-pk, reg_date, del, status(merchant/buyer/retail), address" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="395" width="580" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1N-22-dwYrfEPRShbCRW-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/shopping-elements-6/64/24-Auction_-128.png" vertex="1" parent="1">
           <mxGeometry x="276" y="192" width="104" height="104" as="geometry" />
@@ -93,6 +93,12 @@
         </mxCell>
         <mxCell id="1N-22-dwYrfEPRShbCRW-14" value="name, price, quantity, description, details,&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="825" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1N-22-dwYrfEPRShbCRW-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-660/512/414_van.transport_delivery_shipping-128.png" vertex="1" parent="1">
+          <mxGeometry x="65" y="950" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1N-22-dwYrfEPRShbCRW-16" value="id, merchant, buyer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="18" y="980" width="452" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
