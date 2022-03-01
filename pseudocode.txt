@@ -1,0 +1,38 @@
+CUSTOMER SATISFACTION IS THE AIM
+ALERT!! YOU CAN LOOSE YOUR MONEY IN A TRADE. 
+
+OWODEMARKET WILL ONLY REFUND TOKEN FOR TRADES INVOLVING CLIENT/MERCHANTS/SPROVIDERS WITH GREATER THAN AVERAGE REPUTATION AFTER DISPUTE SETTLEMENT BETWEEN INVOLVED PARTIES. 
+
+DISPUTE SETTLEMENT SHALL INVOLVE EITHER LAWYERS IN PERSON OR SMART CONTRACT, WHICHEVER COMES MORE RATIONAL. 
+
+CLIENT CAN GO INTO DISPUTE WITH ONLY ONE OF EITHER MERCHANT OR SPROVIDER AFTER A TRANSACTION.
+ 
+THE WINNER OF THE CONTEST GETS A TOTAL REFUND OF THEIR TOKEN PLUS 50% OF LOSER'S TOKEN. 50% GOES TO LAWYER/SMART CONTRACT. 
+YOU TAKE SACTIONS DURING RATING.
+TRANSACTIONS HAVE STRICTLY TIME FRAME AND NOT ADHERING TO THE TIMING UNDER WHATSOEVER CONDITION SHALL BE DEEMED A BREECH OF CONTRACT AND ATTRACTS FORFEITURE OF INVESTED TOKEN.
+
+At the end of transaction client must rate service provider and sprovider must rate client.
+If you dont rate you cannot make another transaction.
+
+RATINGS:
+worst - 1, worse - 2, bad - 4, good -8, better - 16, best -32
+Ratings are public
+Reputation = totalRating/numberOfTrades
+Merchants can choose what REPUTATION clients should have before entering their trades.
+Clients can choose what REPUTATION services providers should have before serving them and they will clearly see the Merchants reputation before entering the trade.
+Sproviders will clearly see the Client's and Merchants reputation before entering trade.
+
+1. Before entering the market Client/Merchant/Sprovider must invest tokens in the economy
+CLIENT:
+
+2. Client buy token with cash
+3. It is a highest bidder take all economy
+4. Client enter the market
+5. Client search for goods/services interested in
+6. Client compare current prices. System helps Client compare.
+7. Client bid for goods/service starting from the asking price - asking price is because bids are short lived, innitiated with first bid and expires in one hour after last bid. 
+Client can check for clossing bid, which are displayed based on preference, either acsending or descending in hours/mins/secs. 
+8. Client bids are recorded against Client account and Client are not allowed to make max bids that exceed Client total tokens. 
+9. Once Client bid, Client must be outbidded else Client win and token deducted into the escrow.
+
+SPROVIDER
