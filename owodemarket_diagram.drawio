@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T21:37:31.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="1CEvV2ijjh2TxZFPNQtY" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T07:44:21.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ekD5ZZeU-S2TD_z8Tj5w" version="16.6.4" type="github">
   <diagram id="WnpxDVOLBQDGwqwJwSbG" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="40" y="80" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2PohPZuQRyjSFgSPS488-5" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;" parent="1" vertex="1">
-          <mxGeometry x="160" y="82.4" width="80" height="77.6" as="geometry" />
+          <mxGeometry x="160" y="92.4" width="80" height="77.6" as="geometry" />
         </mxCell>
         <mxCell id="2PohPZuQRyjSFgSPS488-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.shoppingCart;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="310" y="82.4" width="80" height="60" as="geometry" />
@@ -37,7 +37,7 @@
         <mxCell id="2PohPZuQRyjSFgSPS488-14" value="cart" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="161" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2PohPZuQRyjSFgSPS488-15" value="token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2PohPZuQRyjSFgSPS488-15" value="TokenBank" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="161.2" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2PohPZuQRyjSFgSPS488-16" value="goods" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="1N-22-dwYrfEPRShbCRW-16" value="id, merchant, buyer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="18" y="980" width="452" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6eCiAYSctTFU1puKoS-1" value="store" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="171" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
