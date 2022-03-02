@@ -23,8 +23,8 @@ Clients can choose what REPUTATION services providers should have before serving
 Sproviders will clearly see the Client's and Merchants reputation before entering trade.
 
 1. Before entering the market Client/Merchant/Sprovider must invest tokens in the economy
-CLIENT:
 
+CLIENT:
 2. Client buy token with cash
 3. It is a highest bidder take all economy
 4. Client enter the market
@@ -34,5 +34,12 @@ CLIENT:
 Client can check for clossing bid, which are displayed based on preference, either acsending or descending in hours/mins/secs. 
 8. Client bids are recorded against Client account and Client are not allowed to make max bids that exceed Client total tokens. 
 9. Once Client bid, Client must be outbidded else Client win and token deducted into the escrow.
+10. Client request for delivery service for goods and the initial bid for the service. Delivery of Services are billed inclusively. Client also include the time for the conclusion of the delivery, this enables the system to check status of transactions and sanction/penalise defaulters accordingly.
 
-SPROVIDER
+SPROVIDER:
+2. Sprovider buys token with cash, sprovider cannot bid for services that requires more than his/her token balance.
+3. Sprovider search for services according to sprovider area of registration/expertise
+4. Bid for such available expertise with the minimum amount sprovider is willing to accept for the delivery of such services in the stipulated time.
+5. if sprovider bid is not outbidded then sprovider wins and such amount for the delivery he outbidded is deducted from his token balance to be paid back, adding to it the same amount deducted from the client, after the successful completion of transaction.
+6. If sprovider's bid is outbidded then the winning(new) sprovider takes over the responsibilities of delivery and as such is now refered to as sprovider. If the sprovider wins the bid, the bid amount he outbidded is withdrawn from his token balance  to be paid back in full plus his bid on completion of transaction. 
+
